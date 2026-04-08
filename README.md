@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
