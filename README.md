@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
