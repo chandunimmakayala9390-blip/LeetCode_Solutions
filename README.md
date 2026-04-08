@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
