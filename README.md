@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0645-set-mismatch) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [2463-minimum-total-distance-traveled](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
