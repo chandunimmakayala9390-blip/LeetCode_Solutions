@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
