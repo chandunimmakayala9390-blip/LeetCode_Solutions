@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 ## Dynamic Programming
 |  |
