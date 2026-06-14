@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
