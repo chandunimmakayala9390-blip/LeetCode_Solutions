@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
