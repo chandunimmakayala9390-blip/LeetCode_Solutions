@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
