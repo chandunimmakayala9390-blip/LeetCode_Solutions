@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
