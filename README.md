@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
