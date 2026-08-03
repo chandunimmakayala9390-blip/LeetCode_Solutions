@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -290,4 +293,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
