@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
 |  |
 | ------- |
