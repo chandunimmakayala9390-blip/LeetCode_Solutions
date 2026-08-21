@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting Sort
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Tree
@@ -320,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1510-stone-game-iv) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
