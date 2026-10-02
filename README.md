@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
@@ -340,6 +342,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
