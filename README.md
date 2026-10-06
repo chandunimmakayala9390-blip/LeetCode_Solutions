@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
+| [0215-kth-largest-element-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
