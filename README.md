@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Quickselect
 |  |
 | ------- |
