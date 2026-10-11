@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
