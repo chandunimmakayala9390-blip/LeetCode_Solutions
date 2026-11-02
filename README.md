@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chandunimmakayala9390-blip/LeetCode_Solutions/tree/master/1331-rank-transform-of-an-array) |
